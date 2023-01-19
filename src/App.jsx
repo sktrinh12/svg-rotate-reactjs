@@ -11,6 +11,7 @@ function SVGComponent() {
 
   // function handleChange(event) {
   //   setRotate(event.target.value);
+  //   only changes upon button click
   // }
 
   function rotateSvg(event) {
